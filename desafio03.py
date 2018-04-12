@@ -1,5 +1,0 @@
-print("===== Desafio 03 =====")
-n1 = input("Primeiro número: ")
-n2 = input("Segundo numero: ")
-resultado = int(n1) + int(n2)
-print("O resultado é:", resultado)
